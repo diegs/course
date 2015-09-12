@@ -1,0 +1,7 @@
+flags:
+  course:
+    small_base: true
+packages:
+- '.'
+extra-deps: []
+resolver: lts-3.0
